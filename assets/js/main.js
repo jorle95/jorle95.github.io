@@ -3,7 +3,13 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+function number (){
+	alert("+57 3004412174");
+}
 
+function email (){
+	alert("jorle95@hotmail.com");
+}
 (function($) {
 
 	var	$window = $(window),

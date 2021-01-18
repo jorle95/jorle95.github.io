@@ -2101,6 +2101,11 @@ input, select, textarea {
 		cursor: default;
 	}
 
+	#imagen1 {
+		width: 12%;
+		padding-left: 5%;
+	}
+
 		#logo h1 {
 			position: relative;
 			color: #fff;
